@@ -2,6 +2,7 @@ app/
 .DS_Store
 .vscode/
 .git
+__pycache__
 Dockerfile_PROD.txt
 *.py
 newfile
