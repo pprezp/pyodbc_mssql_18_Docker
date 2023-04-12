@@ -1,0 +1,8 @@
+app/
+.DS_Store
+.vscode/
+.git
+Dockerfile_PROD.txt
+*.py
+newfile
+openssl.cnf
