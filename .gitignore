@@ -6,4 +6,3 @@ __pycache__
 Dockerfile_PROD.txt
 *.py
 newfile
-openssl.cnf
