@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+*/.git
+*/__pycache__
+__pycache__
+app/
+Dockerfile_PROD.txt
+*.py
+newfile
+openssl.cnf
